@@ -1,0 +1,5 @@
+# Only the original export is versioned; the files the scripts make from it are not
+data/*
+!data/publications_october2026.csv
+
+__pycache__/

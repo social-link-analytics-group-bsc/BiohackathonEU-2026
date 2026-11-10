@@ -1,0 +1,11 @@
+BIP! DB v23, Zenodo record 22300293 (concept DOI 10.5281/zenodo.4386934), published 2026-09-07
+Downloaded on glogin4, finished 2026-11-10 03:29:35
+md5 verified:
+4ccf044a4004f31f4aea2d1f1aa613f8  3-year_CC.txt.gz
+44e05b1a10026b6565ad4026632ef780  3-year_FWCI.txt.gz
+6b8d2adc7bf264a8ef46ac86f46f3149  AttRank_a0.2_b0.5_c0.3_rho-0.16_year2021-2023_error1e-12.txt.gz
+2c1ee6cb4cc12d2e2460180538fc1087  CC.txt.gz
+94e014da10b6a8b78d81da63009da356  FWCI.txt.gz
+24d2e732c8a5ba57ee113a07adf930ab  PR_a0.5_error1e-12.txt.gz
+bbb7430846dda113cdae9cd7089d1846  RAM_c0.6_year2023.txt.gz
+88301444490e452f707d2b5c15db2fdf  topic_based_impact_classes.txt.gz
